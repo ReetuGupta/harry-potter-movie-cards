@@ -33,10 +33,11 @@ npm run dev   # or npm run build && npm run preview for production
 [👉 Click here to view the deployed site](https://reetu-gupta-hp-cards.netlify.app/)
 
 
+📄 License\
+This project is open-source and available under the MIT License.
+
+
 🙋‍♀️ Author\
 Reetu Gupta
 [📬 LinkedIn](https://www.linkedin.com/in/reetugupta07)\
 🌐 MCA 2024 | Frontend Developer | MERN Stack Enthusiast
-
-📄 License\
-This project is open-source and available under the MIT License.
