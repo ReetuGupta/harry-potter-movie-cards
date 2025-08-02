@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Harry Potter and the Sorcerer's Stone",
-    "img_url": "./src/assets/hp1.avif",
+    "img_url": "./hp1.avif",
     "rating": 7.7,
     "year": 2001,
     "description": "An orphaned boy enrolls in a school of wizardry, where he learns the truth about himself, his family and the terrible evil that haunts the magical world.",
@@ -12,7 +12,7 @@
   {
     "id": 2,
     "name": "Harry Potter and the Chamber of Secrets",
-    "img_url": "./src/assets/hp2.avif",
+    "img_url": "./hp2.avif",
     "rating": 7.5,
     "year": 2002,
     "description": "Harry Potter lives his second year at Hogwarts with Ron and Hermione when a message on the wall announces that the legendary Chamber of Secrets has been opened. The trio soon realize that, to save the school, it will take a lot of courage.",
@@ -22,7 +22,7 @@
   {
     "id": 3,
     "name": "Harry Potter and the Prisoner of Azkaban",
-    "img_url": "./src/assets/hp3.avif",
+    "img_url": "./hp3.avif",
     "rating": 7.9,
     "year": 2004,
     "description": "Harry Potter, Ron and Hermione return to Hogwarts School of Witchcraft and Wizardry for their third year of study, where they delve into the mystery surrounding an escaped prisoner who poses a dangerous threat to the young wizard.",
@@ -32,7 +32,7 @@
   {
     "id": 4,
     "name": "Harry Potter and the Goblet of Fire",
-    "img_url": "./src/assets/hp4.avif",
+    "img_url": "./hp4.avif",
     "rating": 7.7,
     "year": 2005,
     "description": "Harry Potter finds himself competing in a hazardous tournament between rival schools of magic, but he is distracted by recurring nightmares.",
@@ -42,7 +42,7 @@
   {
     "id": 5,
     "name": "Harry Potter and the Order of the Phoenix",
-    "img_url": "./src/assets/hp5.avif",
+    "img_url": "./hp5.avif",
     "rating": 7.5,
     "year": 2007,
     "description": "With their warning about Lord Voldemort's return scoffed at, Harry and Dumbledore are targeted by the Wizard authorities as an authoritarian bureaucrat slowly seizes power at Hogwarts.",
@@ -52,7 +52,7 @@
   {
     "id": 6,
     "name": "Harry Potter and the Half-Blood Prince",
-    "img_url": "./src/assets/hp6.avif",
+    "img_url": "./hp6.avif",
     "rating": 7.6,
     "year": 2009,
     "description": "As Harry Potter begins his sixth year at Hogwarts, he discovers an old book marked as 'the property of the Half-Blood Prince' and begins to learn more about Lord Voldemort's dark past.",
@@ -62,7 +62,7 @@
   {
     "id": 7,
     "name": "Harry Potter and the Deathly Hallows: Part 1",
-    "img_url": "./src/assets/hp7.avif",
+    "img_url": "./hp7.avif",
     "rating": 7.7,
     "year": 2010,
     "description": "Harry Potter is tasked with the dangerous and seemingly impossible task of locating and destroying Voldemort's remaining Horcruxes. Harry must rely on Ron and Hermione more than ever, but dark forces threaten to tear them apart.",
@@ -72,7 +72,7 @@
   {
     "id": 8,
     "name": "Harry Potter and the Deathly Hallows: Part 2",
-    "img_url": "./src/assets/hp8.avif",
+    "img_url": "./hp8.avif",
     "rating": 8.1,
     "year": 2011,
     "description": "As the battle between the forces of good and evil in the wizarding world escalates, Harry Potter draws ever closer to his final confrontation with Voldemort.",
